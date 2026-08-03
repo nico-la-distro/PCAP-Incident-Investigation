@@ -53,7 +53,7 @@ The capture contains traffic from a single internal endpoint communicating with 
 | 201.146.211.106 |     430 | 304069 | Significant communication volume observed. Majority of traffic is server → client (290072 bytes). |
 
 ![[ipv4_conversations.png]]
-![](/screeshots/ipv4_conversations.png)
+![](screeshots/ipv4_conversations.png)
 
 ## Initial Observations
 
@@ -77,7 +77,7 @@ The capture contains traffic from a single internal endpoint communicating with 
 | tybalties.website    | A    | 93.189.41.44   | 3 resolutions observed for the same IP |
 
 ![[dns_queries.png]]
-![](/screeshots/dns_queries.png)
+![](screeshots/dns_queries.png)
 
 ### Observation
 
