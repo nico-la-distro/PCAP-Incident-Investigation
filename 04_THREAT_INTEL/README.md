@@ -1,3 +1,5 @@
+# IOC Table
+
 ## File Hashes
 
 **source** : VirusTotal
@@ -29,3 +31,5 @@
 | 192.241.188.55 | IPv4 | Associated with boloshortolandia.com, delivered `rFrUanXYL.exe` |
 | 93.189.41.44 | IPv4 | Associated with whoulatech.com and tybalties.website, WebSocket traffic observed |
 | 201.146.211.106 | IPv4 | HTTP communication observed on port 7080 |
+
+# MITRE ATT&CK Mapping
