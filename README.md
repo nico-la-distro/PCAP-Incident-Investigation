@@ -1,7 +1,6 @@
 # PCAP Incident Investigation
 
-![[pcap-incident-investigation.png]]
-!(screenshots/pcap-incident-investigation.png)
+![](screenshots/pcap-incident-investigation.png)
 
 ## Overview
 
