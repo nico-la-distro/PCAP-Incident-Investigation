@@ -1,6 +1,8 @@
 # PCAP Incident Investigation
 
 ![[pcap-incident-investigation.png]]
+!(screenshots/pcap-incident-investigation.png)
+
 ## Overview
 
 _Investigation based on a public malware dataset published by malware-traffic-analysis.net._
