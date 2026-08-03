@@ -52,7 +52,6 @@ The capture contains traffic from a single internal endpoint communicating with 
 | 93.189.41.44    |     772 | 470646 | Highest packet count observed. Majority of traffic is server → client (446593 bytes).             |
 | 201.146.211.106 |     430 | 304069 | Significant communication volume observed. Majority of traffic is server → client (290072 bytes). |
 
-![[ipv4_conversations.png]]
 ![](../screenshots/ipv4_conversations.png)
 
 ## Initial Observations
@@ -76,7 +75,6 @@ The capture contains traffic from a single internal endpoint communicating with 
 | whoulatech.com       | A    | 93.189.41.44   |                                        |
 | tybalties.website    | A    | 93.189.41.44   | 3 resolutions observed for the same IP |
 
-![[dns_queries.png]]
 ![](../screenshots/dns_queries.png)
 
 ### Observation
