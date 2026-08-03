@@ -17,11 +17,11 @@ Identify the large HTTP transfer observed during triage and determine its destin
 
 **Doc3134.doc**
 
-![[Doc3134.doc.png]]
+![](../screenshots/Doc3134.doc.png)
 
 **rFrUanXYL.exe**
 
-![[rFrUanXYL.exe.png]]
+![](../screenshots/rFrUanXYL.exe.png)
 
 ### Observations
 
@@ -29,7 +29,8 @@ Identify the large HTTP transfer observed during triage and determine its destin
   - A `.doc` file was delivered from devbyjr.com.
   - An executable file (`.exe`) was delivered from boloshortolandia.com.
 
-![[http_export_objects.png]]
+![](../screenshots/http_export_objects.png)
+
 
 - The HTTP transactions correlate with the external IP addresses identified during triage.
 - Multiple HTTP GET requests to `201.146.211.106:7080` were observed.
