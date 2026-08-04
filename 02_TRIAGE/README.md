@@ -30,11 +30,10 @@ The capture contains traffic from a single internal endpoint communicating with 
 
 | Protocol | Notes |
 |----------|-------|
-| TCP | 99.4% of packets (2017/2029) |
-| TLS | 93 packets but 30.4% of total bytes (428161 bytes) |
-| HTTP | 31 packets, 3.7% of bytes, including one single packet of 533504 bytes (37.9% of total capture size) |
-| DNS | Only 12 packets (0.59%) |
-| WebSocket | 36 packets present |
+| TLS | Encrypted communications observed |
+| HTTP | Multiple file transfers, including a 533,504-byte response |
+| DNS | Queries resolving suspicious domains |
+| WebSocket | WebSocket communications observed |
 
 ## Flagged for Deep Dive
 
